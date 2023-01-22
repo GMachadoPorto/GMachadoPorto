@@ -21,4 +21,4 @@ Learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-Working on a personal project that uses PokeApi to build your team before starting the game
+Working on a personal project that uses PokeApi to build your team before starting the game: https://make-your-team.vercel.app/
