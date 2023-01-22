@@ -2,7 +2,7 @@
 
 My name is Gabriel, i'm 26 years old, i'm a Front End Developer and i live in Rio de Janeiro/Brazil 
 
-I am currently studying at Kenzie Academy Brasil to be a Full Stack Developer and I act as a monitor for the first module of the course.
+I am currently studying at Kenzie Academy Brasil to be a Full Stack Developer.
 
 Contacts
 <div>
@@ -13,8 +13,9 @@ Contacts
 
 Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"  width="40" height="40"/>      
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="40" height="40"/>  
+
+ 
            
 Learning
 
