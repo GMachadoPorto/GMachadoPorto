@@ -2,7 +2,7 @@
 
 My name is Gabriel, i'm 27 years old, i'm a Full Stack Developer and i live in Rio de Janeiro/Brazil 
 
-I am currently studying at Kenzie Academy Brasil to be a Full Stack Developer.
+I am currently finishing my studies at Kenzie Academy Brasil and searching opportunities to work as Developer.
 
 Contacts
 <div>
