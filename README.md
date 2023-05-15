@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-My name is Gabriel, i'm 26 years old, i'm a Front End Developer and i live in Rio de Janeiro/Brazil 
+My name is Gabriel, i'm 27 years old, i'm a Full Stack Developer and i live in Rio de Janeiro/Brazil 
 
 I am currently studying at Kenzie Academy Brasil to be a Full Stack Developer.
 
